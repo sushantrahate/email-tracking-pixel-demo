@@ -38,7 +38,7 @@ EMAIL_USER=your-email@gmail.com
 EMAIL_PASS=abcd efgh ijkl mnop # Replace this with your generated app password
 ```
 
-4️⃣ Start the Server
+### 4️⃣ Start the Server
 
 ```bash
 npm run dev
@@ -72,7 +72,7 @@ curl --location 'http://localhost:3000/track/f29ae249-6567-41fa-a45c-a99e508ef69
 [Blank]
 ```
 
-#3# 3️⃣ Get Tracking Report for an Email
+### 3️⃣ Get Tracking Report for an Email
 
 GET `/report/:email`
 
