@@ -10,7 +10,7 @@ It allows sending tracked emails and monitoring when recipients open them using 
 4. Your server logs the request (IP, timestamp, etc.) 🔍
 5. Count how many times the email was opened 🟦
 
-## Using App Passwords for gmail
+## Using Gmail App Passwords (You can use other Email Services like SendGrid, Mailgun)
 
 Google blocks less secure login methods, so you cannot use your Gmail password directly. Instead, you need to generate an App Password.
 
