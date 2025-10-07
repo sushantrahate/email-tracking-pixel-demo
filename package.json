@@ -9,7 +9,7 @@
     "dotenv": "^16.4.7",
     "googleapis": "^146.0.0",
     "hono": "^4.7.4",
-    "nodemailer": "^6.10.0"
+    "nodemailer": "^7.0.7"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
